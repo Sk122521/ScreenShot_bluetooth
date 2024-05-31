@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ScreenShotApp</string>
+    <string-array name="spinner_items">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+
+
+        <!-- Add more items as needed -->
+    </string-array>
+    <string name="button_connect">Connect</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="title_devices">Devices</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+</resources>
